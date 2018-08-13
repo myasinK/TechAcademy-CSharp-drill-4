@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\bin\Debug\AnonymousIncomeComparator.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\bin\Debug\AnonymousIncomeComparator.exe
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\bin\Debug\AnonymousIncomeComparator.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\obj\Debug\AnonymousIncomeComparator.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\obj\Debug\AnonymousIncomeComparator.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\obj\Debug\AnonymousIncomeComparator.exe
+C:\Users\Yasin\TechAcademy\vs-tour\AnonymousIncomeComparator\AnonymousIncomeComparator\obj\Debug\AnonymousIncomeComparator.pdb
